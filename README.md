@@ -9,7 +9,7 @@ I am an aspiring **SOC Analyst** with hands-on experience in security fundamenta
 ---
 
 ## 🛡️ Cybersecurity Focus Areas
-- Phishing Email Analysis & Investigation <a href="https://github.com/aldren-daimon/phishing-investigation" /> 
+-  <a href="https://github.com/aldren-daimon/phishing-investigation">Phishing Email Analysis & Investigation</a> 
 - Log Analysis (Windows Event Logs, basic Linux logs)  
 - SIEM Fundamentals (Splunk – basic searching & alert review)  
 - Incident Triage & Reporting  
@@ -21,7 +21,7 @@ I am an aspiring **SOC Analyst** with hands-on experience in security fundamenta
 ## 🧪 Hands-On Labs & Projects
 *(Actively building SOC portfolio projects)*
 
-- **Phishing Investigation Project**  
+- **<a href="https://github.com/aldren-daimon/phishing-investigation">Phishing Investigation Project</a>**  
   Simulated phishing incident analysis including indicator extraction, MITRE ATT&CK mapping, impact assessment, and response recommendations.
 
 - **Windows Log Analysis (Upcoming)**  
